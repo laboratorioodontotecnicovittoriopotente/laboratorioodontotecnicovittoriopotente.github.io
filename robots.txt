@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://laboratorioodontotecnicovittoriopotente.github.io/sitemap.xml

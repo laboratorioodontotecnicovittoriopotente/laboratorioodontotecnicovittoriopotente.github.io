@@ -1,0 +1,22 @@
+{
+  "name": "Laboratorio Odontotecnico Vittorio Potente",
+  "short_name": "Laboratorio VP",
+  "description": "Laboratorio odontotecnico a Roma specializzato in protesi fissa, implantologia, CAD/CAM, stampa 3D, zirconia e ceramica dentale. Oltre 40 anni di esperienza.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#163f76",
+  "icons": [
+    {
+      "src": "/assets/images/site/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/images/site/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
